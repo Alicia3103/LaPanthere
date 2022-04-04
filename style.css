@@ -434,6 +434,24 @@ nav .caret {
     margin: 6px -5px 0 0!important;
     float: right;
 }
+.accroche{
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0 20%;
+}
+.citation{
+    font-weight: bold;
+    font-size: 14px;
+    font-style: italic;
+}
+.citation_auteur{
+    font-weight: 400;
+}
+.realisations{
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0 30%;
+}
 
 .mg-md {
     margin-top: 10px;
@@ -987,6 +1005,8 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    
+
     .bloc-tile-2 .container,
     .bloc-tile-3 .container,
     .bloc-tile-4 .container,
