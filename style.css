@@ -435,19 +435,23 @@ nav .caret {
     float: right;
 }
 .accroche{
+    color: #333333;
     font-weight: bold;
     font-size: 18px;
     padding: 0 20%;
 }
 .citation{
+    color: #333333;
     font-weight: bold;
     font-size: 14px;
     font-style: italic;
 }
 .citation_auteur{
+    color: #333333;
     font-weight: 400;
 }
 .realisations{
+    color: #333333;
     font-weight: bold;
     font-size: 18px;
     padding: 0 30%;
